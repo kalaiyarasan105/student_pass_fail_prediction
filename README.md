@@ -38,12 +38,10 @@ Example input:
 - Hours Studied = 3
 - Attendance = 70%
 
-👉 Output: `Pass` or `Fail`
+👉 Output: 'Pass` or `Fail'
 
 ## 📂 Files Included
-- `student_pass_fail_prediction.ipynb` — Main code notebook
-- `README.md` — This file
+- 'student_pass_fail_prediction.ipynb' — Main code notebook
+- 'README.md' — This file
 
-## 📌 Submission
-This project is uploaded to GitHub as part of internship submission.
 
